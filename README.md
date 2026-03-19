@@ -15,7 +15,7 @@ Pancreatic ductal carcinoma (PDAC) is characterized by a highly immunosuppressiv
 | Environment Purpose        | Pertaining Figures           |
 | ------------- |:-------------:|
 |  Perturb-map analysis | 1C, 1D, S4A-C, 5K, 5L |
-|  Perturb-map Multi-model analysis |  |
+|  Perturb-map Multi-modal analysis | 3A, 3B, S5D, S5G, S5H |
 |  ScRNAseq analysis |  |
 |  Visium analysis  |  4P, 4Q, S9  |
 |  BulkRNAseq analysis |       |
