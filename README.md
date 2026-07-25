@@ -1,4 +1,4 @@
-SERPINE1 and SERPINB2 orchestrate spatially dominant immunosuppressive niches in pancreatic cancer
+A Serpin-myeloid axis in pancreatic cancer heterogeneity and immune evasion
 ===
 
 > In this repository, we report how to reproduce the figures from our 2026 manuscript: Falcomatà, C., et al. (2026), Nature. Additionally, we provide our data processing pipelines to pre-process single-cell, 10X Visium, and 10X Xenium datasets used in this study.
